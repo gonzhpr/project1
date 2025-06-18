@@ -1,0 +1,8 @@
+﻿  commodity.cpp
+  trade.cpp
+D:\ForVS\Project\商品销售系统\trade.cpp(61,83): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\ForVS\Project\商品销售系统\trade.cpp(61,68): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  商品销售系统.cpp
+  正在生成代码...
+commodity.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+  商品销售系统.vcxproj -> D:\ForVS\Project\商品销售系统\x64\Debug\商品销售系统.exe

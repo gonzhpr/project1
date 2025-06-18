@@ -1,0 +1,6 @@
+----------------------------------------
+            ****商品信息****            
+----------------------------------------
+ID:1	NAME:1	COST:1	VALUE:1	STOCK0
+ID:2	NAME:2	COST:2	VALUE:2	STOCK0
+ID:3	NAME:3	COST:3	VALUE:3	STOCK0
